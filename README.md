@@ -63,7 +63,8 @@ LangGraph Workflow
 FastAPI API Response
         ↓
 LangSmith + Azure Monitor Observability
-
+```
+---
 ## Key Features
 
 - Multimodal video analysis using transcript and OCR signals
