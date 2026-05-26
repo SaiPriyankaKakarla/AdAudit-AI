@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+*.pyc
+.DS_Store
+*.mp4
+temp_audit_video.mp4
+.env.local
+
+# Virtual environments
+.venv/
+
+# environent
+.env
+
